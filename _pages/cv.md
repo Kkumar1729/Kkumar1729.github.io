@@ -31,11 +31,11 @@ Skills
 * RF IC Design
 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+# Publications
+# ======
+#  <ul>{% for post in site.publications %}
+#   {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
 Talks
 ======
