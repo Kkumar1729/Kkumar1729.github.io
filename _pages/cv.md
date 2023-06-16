@@ -30,12 +30,14 @@ Skills
 * VLSI Design
 * RF IC Design
 
-
+<!-- Write your comments here 
+#
 # Publications
 # ======
 #  <ul>{% for post in site.publications %}
 #   {% include archive-single-cv.html %}
 #  {% endfor %}</ul>
+-->
   
 Talks
 ======
