@@ -19,7 +19,12 @@ Work experience
 ======
 * July 2016- June 2017: Associate
   Thomson Reuters IP & Science Division /  Clarivate Analytics 
-  
+
+Consultation
+======
+Thesis Supervisor (“Xpert) at LJMU Masters in Data science Dissertation and AI
+and machine learning upGrad Education Private Limited (“Upgrad”)
+
 Skills
 ======
 * VLSI Design
