@@ -66,18 +66,20 @@ Service and leadership
 12. Team Leader BITS Pilani K K Birla Goa Campus Alumni Affairs Division  <br>
 13. Founder BangloreAi initiative to promote AI education 2017  <br>
 14. Co-Founded Electronics/ Electrical Skill/Training Program  at BITS Pilani K K Birla Campus 2016-2023; trained more than 800 undergraduate and graduate students.  <br>
-  <\p>
-    
+
+  <br> 
+  
 Reviewer
 ======
-<p>
+
  1. International Joint Conference on Neural Networks (IJCNN) 2022 <br>
  2. IEEE International Symposium on Circuits and Systems 2023 <br>
-<\p>
+
+  <br>
   
 Member of Academic Society
 ======
-<p>
+
 1. IEEE Graduate Member <br>
 2. IEEE Eta Kappa Nu (IEEE-HKN) Lifetime Member <br>
 3. The Institute of Electronics, Information, and Communication Engineers (IEICE) <br>
