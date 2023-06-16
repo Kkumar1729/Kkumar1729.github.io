@@ -10,7 +10,7 @@ for High Accuracy Measurements In VLSI Design and Test VDAT Communications in Co
 Information Science vol 1066 Springer, Singapore
 
 Journal
-1 Thakur C. S., Jamal Molin, Gert Cauwenberghs, Giacomo Indiveri, Kundan Kumar,
+1. Thakur C. S., Jamal Molin, Gert Cauwenberghs, Giacomo Indiveri, Kundan Kumar,
 Ning Qiao, Johannes Schemmel, Runchun Wang, Elisabetta Chicca, Jennifer
 Olson Hasler, Jae-sun Seo, Shimeng Yu, Yu Cao, Andre van Schaik, Ralph Etienne-
 Cummings ” Large —Scale Neuromorphic Spiking Array Processors: A quest to
@@ -45,15 +45,15 @@ Single-Speaker Separation using a Convolutional Neural Network based on a Denois
 Autoencoder”, in 1st R-CCS International Symposium, RIKEN Centre for
 Computational Science, Kobe, Japan, Feb. 2019. [Symposium Poster]
 
-5 Raja Sharma, Sarthak Gupta, Kundan Kumar, Pratik Kumar, Chetan Singh Thakur,
+5. Raja Sharma, Sarthak Gupta, Kundan Kumar, Pratik Kumar, Chetan Singh Thakur,
 ”Real-Time Image Segmentation Using Neuromorphic Pixel Array” in IEEE International Symposium on Circuits and Systems (ISCAS), Japan, May. 2019.
 
-6 Saurabh Gupta, Kundan Kumar, Chetan Singh Thakur ”Deep Generative learning
+6. Saurabh Gupta, Kundan Kumar, Chetan Singh Thakur ”Deep Generative learning
 based computationally efficient ultrasound imaging system for health care application”
 in 1st R-CCS International Symposium, RIKEN Centre for Computational
 Science, Kobe, Japan, Feb. 2019 [Workshop Poster][Equal Contributor
 
-7 Ying Xu, Kundan Kumar, Muhammed Hafeez Hak Siddharth Chaudhary, Chetan Singh Thakur ”A Biologically
+7. Ying Xu, Kundan Kumar, Muhammed Hafeez Hak Siddharth Chaudhary, Chetan Singh Thakur ”A Biologically
 Inspired System for Auditory Saliency”Saliency”[draft ]][Equal Contributor]
 
 
