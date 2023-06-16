@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Electronics System Engineering, IISc, 10/2023 (expected) [Thesis submitted]
+* Ph.D. in Electronics System Engineering, IISc, 10/2023 (expected) [Thesis submitted]
 * M.E. in Microelectronics, BITS Pilani University University, 2016
 * B.Tech. in ECE, JUIT, 2009
 
@@ -22,7 +22,7 @@ Work experience
 
 Consultation
 ======
-Thesis Supervisor (“Xpert) at LJMU Masters in Data science Dissertation and AI
+Thesis Supervisor (“Xpert) at LJMU Masters in Data Science Dissertation and AI
 and machine learning upGrad Education Private Limited (“Upgrad”)
 
 Skills
