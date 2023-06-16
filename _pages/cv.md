@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in ECE, JUIT, 2009
-* M.E. in Microelectronics, BITS Pilani University University, 2016
 * Ph.D in Electronics System Engineering, IISc, 10/2023 (expected) [Thesis submitted]
+* M.E. in Microelectronics, BITS Pilani University University, 2016
+* B.Tech. in ECE, JUIT, 2009
 
 Work experience
 ======
