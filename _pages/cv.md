@@ -51,7 +51,7 @@ Teaching
   
 Service and leadership
 ======
-<p>
+
 1. Student Advisor IEEE IISc Student Branch 2021-2023 <br>
 2. Student Chair IEEE IISc 2018-2020 <br>
 3. President IEEE IISc HKN Mu Xi 2020-2021  <br>
@@ -67,7 +67,7 @@ Service and leadership
 13. Founder BangloreAi initiative to promote AI education 2017  <br>
 14. Co-Founded Electronics/ Electrical Skill/Training Program  at BITS Pilani K K Birla Campus 2016-2023; trained more than 800 undergraduate and graduate students.  <br>
 
-  <br> 
+  
   
 Reviewer
 ======
@@ -75,7 +75,7 @@ Reviewer
  1. International Joint Conference on Neural Networks (IJCNN) 2022 <br>
  2. IEEE International Symposium on Circuits and Systems 2023 <br>
 
-  <br>
+  
   
 Member of Academic Society
 ======
@@ -85,4 +85,4 @@ Member of Academic Society
 3. The Institute of Electronics, Information, and Communication Engineers (IEICE) <br>
 4. IEEE Solid-State Circuits Society <br>
 5. IEEE Computer Society <br>
-<\p>
+
