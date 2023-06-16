@@ -11,30 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in ECE, JUIT, 2009
+* M.E. in Microelectronics, BITS Pilani University University, 2016
+* Ph.D in Electronics System Engineering, IISc, 10/2023 (expected) [Thesis submitted]
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2016- June 2017: Associate
+  Thomson Reuters IP & Science Division /  Clarivate Analytics 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* VLSI Design
+* RF IC Design
+
 
 Publications
 ======
@@ -56,4 +46,36 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+<p>
+1. Student Advisor IEEE IISc Student Branch 2021-2023 <br>
+2. Student Chair IEEE IISc 2018-2020 <br>
+3. President IEEE IISc HKN Mu Xi 2020-2021  <br>
+4. President IEEE IISc UPP 2018 -2022  <br>
+5. Section Student Representative, IEEE BANGALORE SECTION 2020  <br>
+6. Mentored EMEA brain-inspired computing workshop hosted by IISc at The Lalit, New Delhi. At this workshop, Seven students from the Indian Institute of Science Bangalore, Imperial College London,  Tel Aviv Univesity, University College Dublin, and the University of Groningen got together to work on small ideas and learn in brian inspired technology domain. My role was to mentor the projects and overall coordination of workshops.  <br>
+7. Founding Member & Execomm IEEE IISc Computational Intelligence Society/ Computer Society Joint chapter. <br>
+8. Founding Member & Execomm IEEE IISc VLSI (Solid-State Circuits Society (SSCS)/ IEEE Circuits and Systems Society (CAS)/ EEE Council on Electronic Design Automation (CEDA) and IEEE Systems Council)  <br>
+9. Founding Mentor for  IEEE IISc WISE/ IEEE PES /IEEE MTT & Antenna  <br>
+10. Organised Japan Habba Tech fair 2018,2019,2020 & 2023 at IISc  <br>
+11. Placement Co-ordinator at BITS Pilani K K Birla Goa Campus 2015-2016  <br>
+12. Team Leader BITS Pilani K K Birla Goa Campus Alumni Affairs Division  <br>
+13. Founder BangloreAi initiative to promote AI education 2017  <br>
+14. Co-Founded Electronics/ Electrical Skill/Training Program  at BITS Pilani K K Birla Campus 2016-2023; trained more than 800 undergraduate and graduate students.  <br>
+  <\p>
+    
+Reviewer
+======
+<p>
+ 1. International Joint Conference on Neural Networks (IJCNN) 2022 <br>
+ 2. IEEE International Symposium on Circuits and Systems 2023 <br>
+<\p>
+  
+Member of Academic Society
+======
+<p>
+1. IEEE Graduate Member <br>
+2. IEEE Eta Kappa Nu (IEEE-HKN) Lifetime Member <br>
+3. The Institute of Electronics, Information, and Communication Engineers (IEICE) <br>
+4. IEEE Solid-State Circuits Society <br>
+5. IEEE Computer Society <br>
+<\p>
