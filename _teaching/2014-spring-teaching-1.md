@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "IISc, Department of Electronic Systems Engineering"
-date: 2017-08-01/ 2018-08-01
+date: 2017-08-01 & 2018-08-01
 location: "Bengaluru, India"
 ---
 
