@@ -17,6 +17,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Philatelic_Numismatic"
+    url: /Philatelic_Numismatic/
     
   #- title: "Guide"
   #  url: /markdown/
